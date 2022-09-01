@@ -267,6 +267,7 @@ h2{
 #feature .grid .item-cat{
     font-size: .7rem;
     margin-bottom: 20px;
+    text-decoration: underline;
 }
 
 #feature .grid .item-text{
